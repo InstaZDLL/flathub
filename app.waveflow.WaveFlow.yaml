@@ -208,8 +208,8 @@ modules:
       # number, which flatpak-builder refuses.
       - type: git
         url: https://github.com/InstaZDLL/WaveFlow.git
-        tag: v2.0.0
-        commit: "567fc858d1fd7e62a39be052be195c6cbdf47a45"
+        tag: v2.0.1
+        commit: "260304c268e2b9fd04646aea1584e831ecdad5c5"
 
       # Vendored Rust deps (1483 entries: 741 crate tarballs + their
       # .cargo-checksum.json inline siblings + final cargo/config).
